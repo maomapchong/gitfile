@@ -1,0 +1,358 @@
+﻿<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>&#x51EF;&#x53D1;&#x5A31;&#x4E50;</title>
+<script>document.title='成都瑞特数字科技有限责任公司';</script>
+<meta name="keywords" content="&#x51EF;&#x53D1;&#x5A31;&#x4E50;"/>
+<meta name="description" content="&#x51EF;&#x53D1;&#x5A31;&#x4E50;&#x3010;k88208.com&#x3011;&#x5B98;&#x65B9;&#x8D35;&#x5BBE;&#x901A;&#x9053;, &#x4F18;&#x4E8E;&#x666E;&#x901A;&#x4F1A;&#x5458;&#x7684;&#x5C0A;&#x8D35;&#x4F53;&#x9A8C;. &#x4E13;&#x5C5E;&#x5BA2;&#x670D;, &#x4F18;&#x60E0;&#x66F4;&#x591A;, &#x5B58;&#x53D6;&#x6B3E;&#x901F;&#x5EA6;&#x66F4;&#x5FEB;. k8&#x5A31;&#x4E50;, &#x9996;&#x9009;&#x54C1;&#x724C;" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<script>(function(){var bp=document.createElement('script');var curProtocol=window.location.protocol.split(':')[0];if(curProtocol==='https'){bp.src='https://zz.bdstatic.com/linksubmit/push.js'}else{bp.src='http://push.zhanzhang.baidu.com/push.js'}var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(bp,s)})();</script>
+<script>var _hmt=_hmt||[];(function(){var hm=document.createElement("script");hm.src="https://hm.baidu.com/hm.js?5f003303e789f4619071208b12c9c281";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(hm,s)})();</script><meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<script>(function(){var bp=document.createElement('script');var curProtocol=window.location.protocol.split(':')[0];if(curProtocol==='https'){bp.src='https://zz.bdstatic.com/linksubmit/push.js'}else{bp.src='http://push.zhanzhang.baidu.com/push.js'}var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(bp,s)})();</script>
+<script>var _hmt=_hmt||[];(function(){var hm=document.createElement("script");hm.src="https://hm.baidu.com/hm.js?5f003303e789f4619071208b12c9c281";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(hm,s)})();</script><meta http-equiv="Cache-Control" content="no-transform" />
+<meta name="author" content="order by dede58.com" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta content="yes" name="apple-mobile-web-app-capable">
+<meta content="black" name="apple-mobile-web-app-status-bar-style">
+<meta content="email=no" name="format-detection">
+<link href="/skin/css/pintuer.css" rel="stylesheet"/>
+<script src="/skin/js/jquery.js"></script>
+<script src="/skin/js/pintuer.js"></script>
+<script src="/skin/js/respond.min.js"></script>
+<link href="/skin/css/style.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+<div class="wrap-header">
+  <div class="layout bg-black wrap-top">
+    <div class="container height-big text-white"> <span class="float-right"> <!--<a href="" class="text-red">中文站</a>&nbsp;&nbsp;<span class="text-little"> | </span><a href="" class="text-white">English</a>--></span> <span class="hiddlen-l">成都瑞特数字科技有限责任公司欢迎您！&nbsp;&nbsp;客服热线：座机：028-87522737   手机：18702811167</span> </div>
+  </div>
+  <div class="container">
+    <div class="line">
+      <div class="xl12 xs2 xm2 xb3 padding-top">
+        <button class="button icon-navicon float-right" data-target="#header-demo3"></button>
+        <a href="/"><img src="/skin/images/logo.png" alt="成都瑞特数字科技有限责任公司"/></a> </div>
+      <div class=" xl12 xs10 xm10 xb9 nav-navicon" id="header-demo3">
+        <div class="text-right navbar navbar-big">
+          <ul class="nav nav-menu nav-inline nav-pills text-right">
+            <li class="padding-big-top padding-left padding-right padding-big-bottom active"><a href="/" class="topa">网站首页</a></li>
+            <li class="padding-big-top padding-left padding-right padding-big-bottom "><a href="/channel/gongsijianjie/" class="topa">关于我们</a>
+              <ul class="drop-menu"
+                >
+                
+                <li><a href="/channel/gongsijianjie/">公司简介</a></li>
+                
+                <li><a href="/channel/linian/">公司理念</a></li>
+                
+                <li><a href="/channel/qiyewenhua/">企业文化</a></li>
+                
+                <li><a href="/channel/gongsijianjie/gszz/">公司资质</a></li>
+                
+              </ul>
+            </li><li class="padding-big-top padding-left padding-right padding-big-bottom "><a href="/channel/chanpin/" class="topa">产品中心</a>
+              <ul class="drop-menu"
+                >
+                
+                <li><a href="/a/chanpin/cp1/">硬件产品</a></li>
+                
+                <li><a href="/a/chanpin/cp2/">软件产品</a></li>
+                
+              </ul>
+            </li><li class="padding-big-top padding-left padding-right padding-big-bottom "><a href="/a/xinwen/" class="topa">新闻中心</a>
+              <ul class="drop-menu"
+                >
+                
+                <li><a href="/a/gongsixinwen/">公司新闻</a></li>
+                
+                <li><a href="/a/xingyexinwen/">行业新闻</a></li>
+                
+              </ul>
+            </li><li class="padding-big-top padding-left padding-right padding-big-bottom "><a href="/channel/anli/" class="topa">凯发娱乐成功案例</a>
+              <ul style="display:none"
+                >
+                
+              </ul>
+            </li><li class="padding-big-top padding-left padding-right padding-big-bottom "><a href="/zhaopin/channel/" class="topa">人才招聘</a>
+              <ul style="display:none"
+                >
+                
+              </ul>
+            </li><li class="padding-big-top padding-left padding-right padding-big-bottom "><a href="/channel/lianxi/" class="topa">联系我们</a>
+              <ul style="display:none"
+                >
+                
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+ 
+<!--end header-->
+<div class="banner" data-pointer="1" data-interval="5" data-item="1" data-small="1" data-middle="1" data-big="1" data-style="border-main">
+  <div class="carousel"> <div class="item"><a href="/a/chanpin/cp1/22.html"><img src="/uploads/180330/1-1P330093930O1.jpg" alt="幻灯2" ></a></div>
+<div class="item"><a href="/a/chanpin/cp1/33.html"><img src="/uploads/180330/1-1P330093ZK31.jpg" alt="幻灯1" ></a></div>
+ </div>
+</div>
+<!--end banner-->
+
+<div class="layout padding-big-top padding-big-bottom pro">
+  <div class="container padding-big-top padding-big-bottom"> <h1 class="padding-bottom text-center">产品中心</h1>
+    <h2 class="padding-big-bottom text-center"><span>PRODUCT</span></h2>
+    <div class="container"> <div class="xl6 xs6 xm4 xb3">
+        <div class="proitem"> <a href="/a/chanpin/cp1/33.html"> <img src="/uploads/allimg/180314/1-1P314142313C9.jpg" alt="RTHJ-A1自动焊接机" class="fadein"> </a> </div>
+      </div>
+<div class="xl6 xs6 xm4 xb3">
+        <div class="proitem"> <a href="/a/chanpin/cp1/22.html"> <img src="/uploads/allimg/180330/1-1P3301055319C.png" alt="燃气调压器性能测试平台" class="fadein"> </a> </div>
+      </div>
+<div class="xl6 xs6 xm4 xb3">
+        <div class="proitem"> <a href="/a/chanpin/cp2/38.html"> <img src="/uploads/allimg/180314/1-1P314143944352-lp.jpg" alt="智能家居系统" class="fadein"> </a> </div>
+      </div>
+<div class="xl6 xs6 xm4 xb3">
+        <div class="proitem"> <a href="/a/chanpin/cp2/37.html"> <img src="/uploads/allimg/180314/1-1P314143SV30-lp.jpg" alt="燃气管网四维信息综合管理系统" class="fadein"> </a> </div>
+      </div>
+<div class="xl6 xs6 xm4 xb3">
+        <div class="proitem"> <a href="/a/chanpin/cp2/36.html"> <img src="/uploads/allimg/180314/1-1P314143I2M5-lp.jpg" alt="自组态无线远程监测与控制系统" class="fadein"> </a> </div>
+      </div>
+<div class="xl6 xs6 xm4 xb3">
+        <div class="proitem"> <a href="/a/chanpin/cp2/35.html"> <img src="/uploads/allimg/180314/1-1P314143602435.jpg" alt="SCS站控系统" class="fadein"> </a> </div>
+      </div>
+<div class="xl6 xs6 xm4 xb3">
+        <div class="proitem"> <a href="/a/chanpin/cp2/34.html"> <img src="/uploads/allimg/180314/1-1P31414340a24.jpg" alt="智能工厂自动化和管理系统" class="fadein"> </a> </div>
+      </div>
+<div class="xl6 xs6 xm4 xb3">
+        <div class="proitem"> <a href="/a/chanpin/cp2/23.html"> <img src="/uploads/allimg/180314/1-1P314143134542.jpg" alt="SCADA系统与调度中心" class="fadein"> </a> </div>
+      </div>
+
+      <div class="clearfix"></div>
+    </div>
+  </div>
+</div>
+<!--end service-->
+
+<div class="layout about2 padding-big-top padding-big-bottom">
+  <div class="container">
+    <div class="xl12 xs12 xm6 xb6 padding-big"> <h1 class="padding-big-bottom">关于我们</h1>
+      <h2 class="padding-big-bottom">
+      <span class="padding-top">ABOUT</span>
+      </h1>
+      <p class="padding-big-top">   成都瑞特数字科技有限责任公司自2005年成立以来，以应用新技术，促进自控系统和信息管理系统的数字化、网络化、智能化为使命，与原煤炭部最高学府中国矿业大学和原铁道部最高学府西南交通大学紧密合作，利用数字化、自动化、网络化、智能化为特征的现代新型技术，致力于管理软件与手机APP开发、嵌入式系统与智能机电设备研制、智能工厂与信息系统集成等业务，目前公司已拥有多项专利和软件著作权。尤其在监视控制与数据采集系统（SCADA）、地理信息系统（GIS）、管网巡线等外勤作业与管理系统（GPS巡检与手机作业APP），危险爆炸环境用防爆产品，自动化信息化融合系统集成，智能工厂和智能家居等方面，公司一直为Emerson Fisher等公司提供专业、优质的服务。公司的产品和服务涉及天然气、石化、煤矿、城市供水和污水处理、数字制造、...</p>
+      <a class="button bg-main margin-big-top" href="/channel/gongsijianjie/">了解更多>></a> </div>
+    <div class="xl12 xs12 xm6 xb6 padding-big">
+      <div class="banner" data-pointer="1" data-interval="5" data-item="1" data-small="1" data-middle="1" data-big="1" data-style="border-main">
+        <div class="carousel"> <div class="item"><a href="/channel/anli/16.html"><img src="/uploads/allimg/180314/1-1P314163532624.png" alt="独山子输油管线" ></a></div>
+<div class="item"><a href="/channel/anli/17.html"><img src="/uploads/allimg/180314/1-1P3141635092O.jpg" alt="韩国Rajesh" ></a></div>
+<div class="item"><a href="/channel/anli/18.html"><img src="/uploads/allimg/180314/1-1P31416344Cc.jpg" alt="泰国Ppt4号线项目" ></a></div>
+<div class="item"><a href="/channel/anli/19.html"><img src="/uploads/allimg/180314/1-1P31416342A59.png" alt="JP Pilot数字化测试平台" ></a></div>
+<div class="item"><a href="/channel/anli/20.html"><img src="/uploads/allimg/180314/1-1P314163401G7.jpg" alt="凯发娱乐重庆潜能燃气" ></a></div>
+ </div>
+      </div>
+    </div>
+    <div class="clearfix"></div>
+  </div>
+</div>
+<div class="layout case padding-big-top padding-big-bottom">
+  <div class="container padding-big-top padding-big-bottom"> <h1 class="padding-big-bottom text-center bb2">成功案例 / case</h1>
+    <div class="padding-big caselist"> <div class="xl6 xs6 xm3 xb3 casebox">
+        <div class="caseitem"> <a href="/channel/anli/16.html"> <img src="/uploads/allimg/180314/1-1P314163532624.png" alt="独山子输油管线" >
+          <h3>独山子输油管线</h3>
+          </a> </div>
+      </div>
+<div class="xl6 xs6 xm3 xb3 casebox">
+        <div class="caseitem"> <a href="/channel/anli/17.html"> <img src="/uploads/allimg/180314/1-1P3141635092O.jpg" alt="韩国Rajesh" >
+          <h3>韩国Rajesh</h3>
+          </a> </div>
+      </div>
+<div class="xl6 xs6 xm3 xb3 casebox">
+        <div class="caseitem"> <a href="/channel/anli/18.html"> <img src="/uploads/allimg/180314/1-1P31416344Cc.jpg" alt="泰国Ppt4号线项目" >
+          <h3>泰国Ppt4号线项目</h3>
+          </a> </div>
+      </div>
+<div class="xl6 xs6 xm3 xb3 casebox">
+        <div class="caseitem"> <a href="/channel/anli/19.html"> <img src="/uploads/allimg/180314/1-1P31416342A59.png" alt="JP Pilot数字化测试平台" >
+          <h3>JP Pilot数字化测试平台</h3>
+          </a> </div>
+      </div>
+<div class="xl6 xs6 xm3 xb3 casebox">
+        <div class="caseitem"> <a href="/channel/anli/20.html"> <img src="/uploads/allimg/180314/1-1P314163401G7.jpg" alt="重庆潜能燃气" >
+          <h3>重庆潜能燃气</h3>
+          </a> </div>
+      </div>
+<div class="xl6 xs6 xm3 xb3 casebox">
+        <div class="caseitem"> <a href="/channel/anli/21.html"> <img src="/uploads/allimg/180314/1-1P314163313558.jpg" alt="四川台沃农业智能工厂" >
+          <h3>四川台沃农业智能工厂</h3>
+          </a> </div>
+      </div>
+
+      <div class="clearfix"></div>
+    </div>
+  </div>
+</div>
+<!--end 成功案例-->
+
+<div class="layout padding-big-top padding-big-bottom youshi2">
+  <div class="container padding-big-top padding-big-bottom text-center">
+    <div class="hidden-l hidden-s hidden-m xb6 padding-big"></div>
+    <div class="xl12 xs12 xm12 xb6 padding-big">
+      <h1 class="padding-big-bottom">我们的优势 / ADVANTAGE</h1>
+      <div class="ysitem">
+        <h2>超前技术团队</h2>
+        <p>超前技术团队,给你高品质，高质量的产品</p>
+      </div>
+      <div class="ysitem">
+        <h2>凯发娱乐多年生产经验</h2>
+        <p>10余年专业制品深加工  公差/品质有保证</p>
+      </div>
+      <div class="ysitem">
+        <h2>专业技术团队</h2>
+        <p>可根据客户提供的图纸和样板制造产品</p>
+      </div>
+      <div class="ysitem2">
+        <h2>为您提供最贴心的服务</h2>
+        <p>第一时间解决客户的售后问题，让您无后顾之忧</p>
+      </div>
+    </div>
+  </div>
+</div>
+<!--end 广告-->
+
+<div class="layout padding-big-top padding-big-bottom">
+  <div class="container padding-big-top padding-big-bottom"> <h1 class="padding-big-bottom text-center bb2">新闻中心 / news</h1>
+    <div class="container padding-big">
+      <div class="hidden-l hidden-s xm4 xb4 newsitem padding-big-top"> <img src="/skin/images/news.jpg" style="width:100%"/> </div>
+      <div class="xl12 xs12 xm8 xb8 newsitem padding-big-top">
+        <ul>
+          <li class="news-item2"> <a href="/a/gongsixinwen/8.html" title="详解紧固件工具的研究与应用">
+            <div class="news-tit ">
+              <div class="float-left news-span1">
+                <div class="news-time">
+                  <div class="news-time-date"> <span>12</span>/<span>09</span> </div>
+                  <div class="news-time-year">2017</div>
+                </div>
+              </div>
+              <div class="float-left news-span2">
+                <div class="news-action ">
+                  <p class=" news-title ">详解紧固件工具的研究与应用</p>
+                  <p class="news-desc ">紧固件的作用是紧固连接机械零件，其应用极为广泛，它的特点是品种规格繁多...</p>
+                </div>
+              </div>
+            </div>
+            </a> </li>
+<li class="news-item2"> <a href="/a/gongsixinwen/7.html" title="微利时代,铝门窗五金企业如何突破求发展">
+            <div class="news-tit ">
+              <div class="float-left news-span1">
+                <div class="news-time">
+                  <div class="news-time-date"> <span>12</span>/<span>09</span> </div>
+                  <div class="news-time-year">2017</div>
+                </div>
+              </div>
+              <div class="float-left news-span2">
+                <div class="news-action ">
+                  <p class=" news-title ">微利时代,铝门窗五金企业如何突破求发展</p>
+                  <p class="news-desc ">微利时代来临，铝门窗配件五金行业发展履步维艰，残酷的市场竞争淘汰了不少...</p>
+                </div>
+              </div>
+            </div>
+            </a> </li>
+<li class="news-item2"> <a href="/a/gongsixinwen/6.html" title="探明未来，智在必行">
+            <div class="news-tit ">
+              <div class="float-left news-span1">
+                <div class="news-time">
+                  <div class="news-time-date"> <span>12</span>/<span>09</span> </div>
+                  <div class="news-time-year">2017</div>
+                </div>
+              </div>
+              <div class="float-left news-span2">
+                <div class="news-action ">
+                  <p class=" news-title ">探明未来，智在必行</p>
+                  <p class="news-desc ">2017年7月最新数据显示，财新中国制造业PMI录得51.1，比上月上涨0.7，为近四个月...</p>
+                </div>
+              </div>
+            </div>
+            </a> </li>
+<li class="news-item2"> <a href="/a/gongsixinwen/5.html" title="如何DIY一把虹膜锁">
+            <div class="news-tit ">
+              <div class="float-left news-span1">
+                <div class="news-time">
+                  <div class="news-time-date"> <span>12</span>/<span>09</span> </div>
+                  <div class="news-time-year">2017</div>
+                </div>
+              </div>
+              <div class="float-left news-span2">
+                <div class="news-action ">
+                  <p class=" news-title ">如何DIY一把虹膜锁</p>
+                  <p class="news-desc ">智能家居 自2013年起,国家工信部、发改委等14个部门共同发布《国家物联网发展...</p>
+                </div>
+              </div>
+            </div>
+            </a> </li>
+
+        </ul>
+      </div>
+      <div class="clearfix"></div>
+    </div>
+  </div>
+</div>
+<!--end 新闻推荐--> 
+<div class="container-layout bg-footnav bg-inverse padding-big-top padding-big-bottom clearfix">
+  <div class="padding container">
+    <div class="xl12 xs12 xm7 xb7">
+      <div class="hidden-l hidden-s xm4 xb3"> <img class="foot-weixin" src="/skin/images/erweima.png"> </div>
+      <div class="xl12 xs12 xm8 xb8">
+        <p>在线客服  ：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1597337825&site=qq&menu=yes" rel="nofollow" ><i class="qq"></i></a></p>
+        <p>服务热线：座机：028-87522737   手机：18702811167</p>
+        <p>电子邮箱: right@cdright.com</p>
+        <p>公司地址：成都市武侯区武科西一路65号优博中心D座504</p>
+      </div>
+      <div class="clearfix"></div>
+      <div class="xl12 xs12 xm11 xb11">
+        <p> 成都瑞特数字科技有限责任公司自2005年成立以来，以应用新技术，促进自控系统和信息管理系统的数字化、网络化、智能化为使命，与原煤炭部最高学府...</p>
+      </div>
+      <div class="xl12 xs12 xm11 xb11"> <b>友情链接：</b>   <a href='http://www.baidu.com/' target='_blank'>百度</a>      </div>
+    </div>
+    <div class="hidden-l hidden-s xm5 xb5">
+      <form action="/plus/diy.php" enctype="multipart/form-data" method="post">
+        <input type="hidden" name="action" value="post" />
+        <input type="hidden" name="diyid" value="1" />
+        <input type="hidden" name="do" value="2" />
+        <div class="padding-big-top padding-bottom">
+          <div class="form-group">
+            <div class="field field-icon-right">
+              <input type="text" class="input" name="name" placeholder="怎么称呼您" data-validate="required:请填写您的称呼" />
+            </div>
+          </div>
+          <div class="form-group">
+            <div class="field field-icon-right">
+              <input type="text" class="input" name="tel" placeholder="您的联系电话" data-validate="required:请填写您的联系电话,tel:请输入正确的电话号码" />
+            </div>
+          </div>
+          <div class="form-group">
+            <div class="field field-icon-right">
+              <input type="text" class="input" name="email" placeholder="您的邮箱地址" data-validate="required:请填写您的邮箱地址,email:请输入正确的邮箱账号" />
+            </div>
+          </div>
+          <div class="form-group">
+            <div class="field field-icon-right">
+              <input type="text" class="input" name="content" placeholder="您的留言内容" data-validate="required:请填写您的留言内容" />
+            </div>
+          </div>
+        </div>
+        <input type="hidden" name="dede_fields" value="name,text;tel,text;email,text;content,text" />
+        <input type="hidden" name="dede_fieldshash" value="e19dc95bf244171b76ee60e48d827f58" />
+        <input type="submit" class="button bg-main text-big padding-big-left padding-big-right" value="提交留言">
+      </form>
+    </div>
+  </div>
+</div>
+<div class="container-layout bg-sub padding-top padding-bottom clearfix">
+  <div class="text-center"> Copyright © 2002-2017 成都瑞特数字科技有限责任公司 版权所有  </div>
+</div>
+
+</body>
+</html>
